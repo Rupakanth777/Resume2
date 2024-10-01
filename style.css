@@ -39,7 +39,7 @@ button{
 }
 .y1{
     height: 800px;
-    background-image: url(lap.jpg);
+    background-image: url(/lap.jpg);
     background-size: cover;
 }
 .y2{
